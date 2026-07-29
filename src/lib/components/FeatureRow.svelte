@@ -11,7 +11,7 @@
 		<h3 class="font-serif-display text-4xl md:text-5xl text-white mb-6">{title}</h3>
 		<p class="text-gray-400 text-lg mb-8 leading-relaxed">{description}</p>
 		<button class="px-6 py-2 border border-gray-600 rounded text-sm text-white hover:bg-white hover:text-black transition-colors">
-			Learn More
+			Discover More
 		</button>
 	</div>
 
@@ -55,9 +55,9 @@
 			{:else if imageType === 'workflows'}
 				<div class="absolute inset-0 p-8 flex items-center justify-center">
 					<div class="relative w-full h-full">
-						<div class="absolute top-10 left-1/2 -translate-x-1/2 bg-gray-800 px-4 py-2 rounded border border-gray-700 text-xs text-gray-400">Trigger</div>
-						<div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 bg-gray-800 px-4 py-2 rounded border border-gray-700 text-xs text-gray-400">Action</div>
-						<div class="absolute bottom-10 left-1/2 -translate-x-1/2 bg-gray-800 px-4 py-2 rounded border border-gray-700 text-xs text-gray-400">Result</div>
+						<div class="absolute top-10 left-1/2 -translate-x-1/2 bg-gray-800 px-4 py-2 rounded border border-gray-700 text-xs text-gray-400">Mandate</div>
+						<div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 bg-gray-800 px-4 py-2 rounded border border-gray-700 text-xs text-gray-400">Matching</div>
+						<div class="absolute bottom-10 left-1/2 -translate-x-1/2 bg-gray-800 px-4 py-2 rounded border border-gray-700 text-xs text-gray-400">Close</div>
 						<div class="absolute inset-0 border-l border-dashed border-gray-700 left-1/2 -translate-x-1/2 z-[-1]"></div>
 					</div>
 				</div>
@@ -82,10 +82,10 @@
 				</div>
 			{:else if imageType === 'ecosystem'}
 				<div class="absolute inset-0 p-8 flex flex-wrap gap-4 justify-center items-center content-center">
-					<div class="w-12 h-12 bg-white rounded flex items-center justify-center text-black font-bold">W</div>
-					<div class="w-12 h-12 bg-blue-600 rounded flex items-center justify-center text-white font-bold">O</div>
-					<div class="w-12 h-12 bg-black border border-gray-700 rounded flex items-center justify-center text-white font-serif font-bold">H</div>
-					<div class="w-12 h-12 bg-blue-400 rounded flex items-center justify-center text-white font-bold">i</div>
+					<div class="w-12 h-12 bg-white rounded flex items-center justify-center text-black font-bold">PE</div>
+					<div class="w-12 h-12 bg-blue-600 rounded flex items-center justify-center text-white font-bold">VC</div>
+					<div class="w-12 h-12 bg-black border border-gray-700 rounded flex items-center justify-center text-white font-serif font-bold">M</div>
+					<div class="w-12 h-12 bg-blue-400 rounded flex items-center justify-center text-white font-bold">IB</div>
 				</div>
 			{/if}
 		</div>

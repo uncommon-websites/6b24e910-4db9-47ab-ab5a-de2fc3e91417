@@ -4,12 +4,12 @@
 
 <section class="pt-32 pb-20 px-6 max-w-7xl mx-auto">
 	<div class="mb-16">
-		<span class="text-sm font-medium text-gray-500 uppercase tracking-wide mb-4 block">Platform Overview</span>
+		<span class="text-sm font-medium text-gray-500 uppercase tracking-wide mb-4 block">Advisory Overview</span>
 		<h1 class="font-serif-display text-6xl md:text-7xl lg:text-8xl font-medium tracking-tight text-gray-900 leading-[0.95] mb-8">
-			Engineered for<br />Every Task
+			Built for<br />Every Exit
 		</h1>
 		<p class="text-lg md:text-xl text-gray-600 max-w-2xl leading-relaxed">
-			More than 100,000 legal professionals around the world use Harvey cut through complexity to navigate complex legal work.
+			Owners across industries trust Mariana Research to navigate complex transactions and find the right buyer — with seven years of hands-on deal expertise guiding every mandate.
 		</p>
 	</div>
 
@@ -39,16 +39,16 @@
 				</div>
 				
 				<div class="mb-8 text-center">
-					<h2 class="font-serif-display text-4xl text-gray-900 mb-2">Harvey</h2>
+					<h2 class="font-serif-display text-4xl text-gray-900 mb-2">Mariana Research</h2>
 					<div class="flex space-x-4 justify-center text-sm text-gray-500">
-						<span>Draft document</span>
-						<span>Review table</span>
+						<span>Prepare mandate</span>
+						<span>Buyer shortlist</span>
 					</div>
 				</div>
 
 				<!-- Search Bar -->
 				<div class="w-full max-w-2xl bg-white border border-gray-200 rounded-lg shadow-sm p-4 flex items-center justify-between">
-					<span class="text-gray-400">Ask Harvey anything. Type @ to add sources.</span>
+					<span class="text-gray-400">Ask Mariana Research anything. Type @ to add sources.</span>
 					<div class="flex space-x-2">
 						<div class="h-6 w-6 bg-gray-100 rounded"></div>
 						<div class="h-6 w-6 bg-gray-100 rounded"></div>
@@ -58,10 +58,10 @@
 				<!-- Chips below search -->
 				<div class="mt-4 flex space-x-2">
 					<span class="px-3 py-1 bg-gray-100 rounded-full text-xs text-gray-600 flex items-center gap-1">
-						<div class="w-3 h-3 bg-gray-400 rounded-full"></div> Files
+						<div class="w-3 h-3 bg-gray-400 rounded-full"></div> Deals
 					</span>
 					<span class="px-3 py-1 bg-gray-100 rounded-full text-xs text-gray-600 flex items-center gap-1">
-						<div class="w-3 h-3 bg-gray-400 rounded-full"></div> Sources
+						<div class="w-3 h-3 bg-gray-400 rounded-full"></div> Buyers
 					</span>
 				</div>
 			</div>
@@ -72,6 +72,6 @@
 		<div class="w-8 h-8 rounded-full bg-black text-white flex items-center justify-center mr-3 group-hover:bg-gray-800 transition-colors">
 			<Play class="w-3 h-3 fill-current ml-0.5" />
 		</div>
-		Watch Video
+		Watch Overview
 	</button>
 </section>

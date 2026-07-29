@@ -3,22 +3,22 @@
 		<!-- Image -->
 		<div class="w-full md:w-1/2 relative">
 			<div class="aspect-[4/5] bg-gray-200 rounded-xl overflow-hidden relative">
-				<!-- Placeholder for Rich Robbins -->
-				<img src="https://placehold.co/600x750/333/999?text=Rich+Robbins" alt="Rich Robbins" class="w-full h-full object-cover grayscale" />
+				<!-- Placeholder for Felix Buschkotte -->
+				<img src="/generated/image-a-professional-confident-founder-felix-b-1785315268983-0.webp" alt="Felix Buschkotte, Founding Partner, Mariana Research" class="w-full h-full object-cover grayscale" />
 			</div>
 		</div>
 
 		<!-- Quote -->
 		<div class="w-full md:w-1/2">
 			<blockquote class="font-serif-display text-3xl md:text-4xl leading-tight text-gray-900 mb-8">
-				“What we have : Harvey is by far technology ad been a part of.”
+				"Mariana Research gave us access to the right buyers at the right time — a seamless process we couldn't have navigated alone."
 			</blockquote>
 			<div class="space-y-4">
 				<div>
-					<div class="font-semibold text-gray-900">Rich Robbins</div>
-					<div class="text-sm text-gray-600">Director of Applied Artificial Reed Smith</div>
+					<div class="font-semibold text-gray-900">Felix Buschkotte</div>
+					<div class="text-sm text-gray-600">Founding Partner, Mariana Research</div>
 				</div>
-				<div class="font-serif-display text-2xl text-gray-900">ReedSmith</div>
+				<div class="font-serif-display text-2xl text-gray-900">Mariana Research</div>
 			</div>
 
 			<!-- Navigation Dots/Lines -->

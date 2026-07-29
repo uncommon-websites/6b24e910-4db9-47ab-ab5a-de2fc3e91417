@@ -6,27 +6,27 @@
 	<div class="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
 		<!-- Logo -->
 		<a href="/" class="font-serif-display text-2xl font-medium tracking-tight text-gray-900">
-			Harvey
+			Mariana Research
 		</a>
 
 		<!-- Navigation Links -->
 		<div class="hidden md:flex items-center space-x-8">
 			<button class="group flex items-center text-sm font-medium text-gray-600 hover:text-gray-900 transition-colors">
-				Platform
+				Services
 				<ChevronDown class="w-3 h-3 ml-1 text-gray-400 group-hover:text-gray-900 transition-colors" />
 			</button>
 			<button class="group flex items-center text-sm font-medium text-gray-600 hover:text-gray-900 transition-colors">
-				Solutions
+				Transactions
 				<ChevronDown class="w-3 h-3 ml-1 text-gray-400 group-hover:text-gray-900 transition-colors" />
 			</button>
 			<a href="/customers" class="text-sm font-medium text-gray-600 hover:text-gray-900 transition-colors">
-				Customers
+				Clients
 			</a>
 			<a href="/security" class="text-sm font-medium text-gray-600 hover:text-gray-900 transition-colors">
-				Security
+				Confidentiality
 			</a>
 			<button class="group flex items-center text-sm font-medium text-gray-600 hover:text-gray-900 transition-colors">
-				Resources
+				Insights
 				<ChevronDown class="w-3 h-3 ml-1 text-gray-400 group-hover:text-gray-900 transition-colors" />
 			</button>
 			<button class="group flex items-center text-sm font-medium text-gray-600 hover:text-gray-900 transition-colors">
@@ -38,7 +38,7 @@
 		<!-- Right Side -->
 		<div class="flex items-center">
 			<a href="/login" class="text-sm font-medium text-gray-900 hover:text-gray-600 transition-colors">
-				Login
+				Contact Us
 			</a>
 		</div>
 	</div>
